@@ -1,0 +1,17 @@
+$primary-color: #9356dc; // Purple
+$secondary-color: #ff79da; // Rose
+$tertiary-color: #99e2d0; // Light-green
+$base-bg: #f6f6f6;
+$form-bg: #eaeaea;
+$footer-bg: #353535;
+$operation-bg: #f5edff;
+$white: #fff;
+$img-size: 15.625rem;
+$loader-color: $primary-color, $secondary-color, $tertiary-color,
+  $secondary-color, $primary-color;
+$breakpoints: (
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+);
